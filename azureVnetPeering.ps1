@@ -1,4 +1,4 @@
-﻿#Peering between Azure VNETS
+﻿#Peering between Azure VNETS(Peerings between VNET1 to VNET2)
 Login-AzureRmAccount
 $resourceGroup = read-host "Enter your ResourceGroup:::"
 $vnet1Name = Read-host "Enter your VNET1 Name:::"
